@@ -21,7 +21,7 @@ A smart chatbot built with FastAPI and OpenAI, featuring intent-based responses 
 - DELETE `/chat/history/{session_id}`: Clear chat history
 
 
-##To run the Project
+## To run the Project
  1. Clone the repository
  2.  Create and activate virtual environment
  3.  Install dependencies
