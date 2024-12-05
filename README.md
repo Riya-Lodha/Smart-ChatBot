@@ -11,7 +11,3 @@ A smart chatbot built with FastAPI and OpenAI, featuring intent-based responses 
 - Session management
 - Response caching
 - Health monitoring
-
-## Setup
-
-1. Clone the repository: 
