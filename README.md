@@ -19,3 +19,11 @@ A smart chatbot built with FastAPI and OpenAI, featuring intent-based responses 
 - POST `/chat/stream`: Stream chat responses
 - GET `/health`: Service health check
 - DELETE `/chat/history/{session_id}`: Clear chat history
+
+
+##To run the Project
+ 1. Clone the repository
+ 2.  Create and activate virtual environment
+ 3.  Install dependencies
+ 4.  Create .env file and add your OpenAI API key
+ 5.  Run the application: `uvicorn app:app --reload`
