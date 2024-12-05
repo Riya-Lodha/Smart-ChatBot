@@ -11,3 +11,11 @@ A smart chatbot built with FastAPI and OpenAI, featuring intent-based responses 
 - Session management
 - Response caching
 - Health monitoring
+
+
+## API Endpoints
+
+- GET `/`: Web chat interface
+- POST `/chat/stream`: Stream chat responses
+- GET `/health`: Service health check
+- DELETE `/chat/history/{session_id}`: Clear chat history
